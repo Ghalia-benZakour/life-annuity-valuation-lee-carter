@@ -79,7 +79,7 @@ data/                       HMD files: not redistributed, see data/README.md
 2. Install the packages: `install.packages(c("StMoMo", "ggplot2", "dplyr", "tidyr", "scales"))`
 3. Knit `analyse_rente_viagere.Rmd` from the repository root.
 
-A video presentation of the project (in French) is available [here](https://youtu.be/tNpSYDIIklI).
+
 
 ## References
 
