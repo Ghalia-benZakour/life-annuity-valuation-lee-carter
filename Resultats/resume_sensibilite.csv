@@ -1,0 +1,9 @@
+"indicateur","valeur"
+"Âge initial",75
+"Âge final utilisé pour la rente viagère",100
+"VAP centrale rente viagère, i = 2 %",11.674778411234
+"VAP centrale rente temporaire 15 ans, i = 2 %",10.2649069143107
+"Variation rente viagère si taux -1 pt",7.5009721794834
+"Variation rente viagère si taux +1 pt",-6.63520181428479
+"Variation rente viagère si mortalité -10 %",4.04110167143594
+"Variation rente viagère si mortalité +10 %",-3.65461283279177

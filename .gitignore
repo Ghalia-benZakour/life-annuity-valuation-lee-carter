@@ -1,0 +1,10 @@
+# HMD data (redistribution not allowed)
+data/*.txt
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*_cache/
+*_files/
+*.html
